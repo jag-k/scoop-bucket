@@ -11,7 +11,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/jag-k/clipboard-transformer/releases/download/v0.1.0/clipboard-transformer-0.1.0-x86_64-windows-portable.zip",
-      "hash": "0c2f7109c676d5e5dcc41eb778c22b15ec88c7072489904dd0c44d5bb7bfc332"
+      "hash": "7be066fa24068e02f7634f8a9ebfafd5849559f88757e7680406487b0437c846"
     }
   },
   "bin": "clipboard-transformer.exe",
